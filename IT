@@ -1,0 +1,21 @@
+<DOCTYPE! html>
+<html>
+<head>
+	<title>System Softwere</title>
+</head>
+<body>
+<center><h2>System Softwere(insem-2)</h2></center>
+<hr>
+
+<tablel>
+	<tr>
+		<th><h4>lec number</h4></th>
+	</tr>
+	<tr>
+		<td><a href="https://www.youtube.com/watch?v=e8YxIdwodB8">lec-1 (state process and Scheduler)</a></td>
+	</tr>
+
+
+	
+</body>
+</html>
